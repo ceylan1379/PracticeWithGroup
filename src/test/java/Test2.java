@@ -1,4 +1,6 @@
 public class Test2 {
 
-    // Hello everybody!
+Conflict result
+// Hello everybody!
+
 }
