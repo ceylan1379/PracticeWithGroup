@@ -1,6 +1,6 @@
 public class Test2 {
 
-Conflict result
+//Conflict result
 // Hello everybody!
 
 }
